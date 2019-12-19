@@ -1,0 +1,67 @@
+{
+    "name": "Exicon",
+    "description": "Exicon brings your digital idea to life. From finding a developer, mobile \r  strategy, and design to implementation, analytics and management. We have \r  years of experience in various industries and knowledge of the latest \r  trends. Create mobile app...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/91-exicon.jpg",
+    "tags": [
+        "api management other",
+        "api service provider",
+        "applications",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/exicon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Exicon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/91-exicon.jpg",
+            "humanURL": "http:\/\/blog.exiconglobal.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/exicon-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.exiconglobal.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.exiconglobal.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/ExiconBlog"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/blog.exiconglobal.com\/build-my-app-101"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/blog.exiconglobal.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/exicon"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/exicon"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/exicon"
+        }
+    ]
+}
